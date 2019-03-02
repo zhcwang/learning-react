@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script src="../build/react.development.js"></script>
+    <script src="../build/react-dom.development.js"></script>
+    <script src="../build/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="example"></div>
+    <script type="text/babel">
+      class Counter extends React.Component {
+        constructor(props) {
+          super(props)
+          this.state = {
+            indexNumber: 0
+          }
+          this.handleClick = this.handleClick.bind(this)
+        }
+        handleClick(event) {
+          this.setState(
+              {
+                  indexNumber: this.state.indexNumber + 1
+              }
+          );
+        }
+        render() {
+          var text = this.state.indexNumber;
+          return (
+            <p onClick={this.handleClick}>
+               Click to Increase --> {text}
+            </p>
+          );
+        }
+      }
+
+      ReactDOM.render(
+        <Counter />,
+        document.getElementById('example')
+      );
+    </script>
+  </body>
+</html>
+
