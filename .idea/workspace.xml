@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32cb61fd-508d-421a-9c35-e821c29b4543" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/build/AjaxTest.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo08/counter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo07/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="32cb61fd-508d-421a-9c35-e821c29b4543" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo12/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="53" column="25" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="25" />
+            <state relative-caret-position="500">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -31,8 +25,8 @@
       <file leaf-file-name="http-requests-log.http" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="240">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -40,8 +34,17 @@
       <file leaf-file-name="AjaxTest.http" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/AjaxTest.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo11/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -108,22 +111,6 @@
             <path>
               <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-demos" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-demos" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="httpRequests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-demos" type="462c0819:PsiDirectoryNode" />
               <item name="demo10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -135,6 +122,17 @@
               <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-demos" type="462c0819:PsiDirectoryNode" />
               <item name="demo12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="demo13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="demo13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,16 +253,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551487432295</updated>
-      <workItem from="1551487435629" duration="6878000" />
+      <workItem from="1551487435629" duration="8254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6878000" />
+    <option name="totallyTimeSpent" value="8254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -274,7 +271,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32947975" />
       <window_info id="Capture Tool" />
@@ -372,20 +369,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2019-03-02T103750.200.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/AjaxTest.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo09/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -409,22 +392,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="-100">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo11/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="300">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/AjaxTest.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo12/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="53" column="25" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="25" />
+        <state relative-caret-position="500">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
